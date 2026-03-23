@@ -25,6 +25,11 @@ Aplicação web que consome a API da OpenWeather para exibir informações clim�
 ![preview 2](./public/preview2.png)
 
 ## ▶️ Como rodar
+https://weather-julia.vercel.app/
+
+## ▶️ Como rodar
 ```bash
 npm install
 npm run dev
+
+
