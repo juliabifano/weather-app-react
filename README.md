@@ -17,7 +17,8 @@ Aplicação web que consome a API da OpenWeather para exibir informações clim�
 - API REST (OpenWeather)
 
 ## 📸 Preview
-![preview](./public/img/preview.png)
+![preview](./public/img/preview1.png)
+![preview](./public/img/preview2.png)
 
 ## ▶️ Como rodar
 ```bash
